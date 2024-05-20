@@ -1,2 +1,2 @@
 # RPGBasics
- A basıc project for an RPG game
+ A basic project for an RPG game
