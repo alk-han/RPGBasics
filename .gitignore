@@ -71,4 +71,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-/Assets/ThirdParty/
+/[Aa]ssets/[Tt]hird[Pp]arty/
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/_TerrainAutoUpgrade/
+/[Aa]ssets/Prefabs/Player/
+.vscode
